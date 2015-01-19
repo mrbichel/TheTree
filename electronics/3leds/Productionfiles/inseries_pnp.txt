@@ -1,0 +1,46 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=inseries
+*Date=17:05:13
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;3.3;THT;51.8586;-36.6666;-90;Bottom;R5
+2;10k;THT;31.5386;-8.72658;-90;Bottom;R10
+3;;;72.1786;-56.9866;0;Bottom;Hole8
+4;22k;THT;23.9186;-31.5866;-90;Bottom;R1
+5;;TO92 [THT];46.8675;-33.9361;-90;Bottom;Q3
+6;3.3;THT;69.6386;-36.6666;-90;Bottom;R8
+7;;TO92 [THT];64.6475;-33.9361;-90;Bottom;Q5
+8;;TO220 [THT];67.0986;-45.8106;0;Bottom;Q6
+9;;TO92 [THT];29.0875;-33.9361;-90;Bottom;Q1
+10;;THT;57.0287;-6.18652;180;Bottom;XTAL1
+11;;;11.2186;-56.9866;0;Bottom;Hole9
+12;;TO220 [THT];49.3186;-45.8106;0;Bottom;Q4
+13;3.3;THT;54.3986;-36.6666;-90;Bottom;R6
+14;;;72.1785;-3.64668;0;Bottom;Hole6
+15;;dil08;25.1886;-15.0639;-90;Bottom;U1
+16;;THT;14.2666;-14.1034;0;Bottom;J3
+17;22k;THT;41.6986;-31.5866;-90;Bottom;R4
+18;3.3;THT;72.1786;-36.6666;-90;Bottom;R9
+19;;;44.2385;-6.18668;0;Bottom;Hole15
+20;5V;TO220 [THT];16.7359;-42.4383;90;Bottom;U2
+21;22k;THT;59.4786;-31.5866;-90;Bottom;R7
+22;;dip;53.1286;-15.0766;-90;Bottom;Atmega328
+23;;cpol-radial-10uf-25v;16.4819;-52.125;180;Bottom;C2
+24;;;18.3647;-42.7605;0;Bottom;Via1
+25;3.3;THT;36.6186;-36.6666;-90;Bottom;R3
+26;;cpol-radial-10uf-25v;16.1952;-32.9066;180;Bottom;C3
+27;1;THT;34.0786;-36.6666;-90;Bottom;R2
+28;;THT;32.4555;-53.9386;90;Bottom;J1
+29;;THT;48.4855;-53.9386;90;Bottom;J2
+30;;;11.2185;-3.64668;0;Bottom;Hole7
+31;;TO220 [THT];31.5386;-45.8106;0;Bottom;Q2
